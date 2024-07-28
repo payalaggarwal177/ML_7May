@@ -1,0 +1,91 @@
+Brand,Model,AccelSec,TopSpeed_KmH,Range_Km,Efficiency_WhKm,FastCharge_KmH,RapidCharge,PowerTrain,PlugType,BodyStyle,Segment,Seats,Price(Inr)
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,2682900.00
+Polestar ,2,4.7,210,400,181,620,Yes,AWD,Type 2 CCS,Liftback,D,5,5047429.20
+BMW ,iX3 ,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,D,5,6084817.20
+Honda ,e ,9.5,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,B,4,2950921.71
+Lucid ,Air ,2.8,250,610,180,620,Yes,AWD,Type 2 CCS,Sedan,F,5,9390150.00
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,2852817.00
+Peugeot ,e-208 ,8.1,150,275,164,420,No,FWD,Type 2 CCS,Hatchback,B,5,2654461.26
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,4918650.00
+Mercedes ,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,Type 2 CCS,SUV,D,5,6213954.12
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,2614396.62
+Hyundai ,Kona Electric 64 kWh,7.9,167,400,160,380,Yes,FWD,Type 2 CCS,SUV,B,5,3648296.85
+BMW ,i4 ,4,200,450,178,650,Yes,RWD,Type 2 CCS,Sedan,D,5,5812950.00
+Hyundai ,IONIQ Electric,9.7,165,250,153,210,No,FWD,Type 2 CCS,Liftback,C,5,3081668.37
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,3660906.48
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,16167244.83
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,1915680.03
+MG ,ZS EV,8.2,140,220,193,260,No,FWD,Type 2 CCS,SUV,B,5,2682900.00
+Mini ,Cooper SE ,7.3,150,185,156,260,Yes,FWD,Type 2 CCS,Hatchback,B,4,2833231.83
+Opel ,Corsa-e ,8.1,150,275,164,420,Yes,FWD,Type 2 CCS,Hatchback,B,5,2606526.78
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,3130050.00
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,11178750.00
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,4024350.00
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,2951190.00
+Volvo ,XC40 P8 AWD Recharge,4.9,180,375,200,470,Yes,AWD,Type 2 CCS,SUV,C,5,5404880.91
+BMW ,i3 120 Ah,7.3,150,235,161,270,No,RWD,Type 2 CCS,Hatchback,B,4,3399860.31
+Peugeot ,e-2008 SUV ,8.5,150,250,180,380,No,FWD,Type 2 CCS,SUV,B,5,3072904.23
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,6023825.94
+Kia ,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,3407730.15
+Renault ,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,B,5,2788785.12
+Mazda ,MX-30 ,9,150,180,178,240,Yes,FWD,Type 2 CCS,SUV,C,5,2919531.78
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,3330104.91
+Lexus ,UX 300e,7.5,160,270,193,190,Yes,FWD,Type 2 CHAdeMO,SUV,C,5,4471500.00
+CUPRA ,el-Born ,6.5,160,425,181,570,No,RWD,Type 2 CCS,Hatchback,C,4,4024350.00
+Renault ,Zoe ZE50 R135,9.5,140,310,168,230,No,FWD,Type 2 CCS,Hatchback,B,5,2963084.19
+Mercedes ,EQA ,5,200,350,171,440,No,AWD,Type 2 CCS,SUV,C,5,4024350.00
+Hyundai ,Kona Electric 39 kWh,9.9,155,255,154,210,Yes,FWD,Type 2 CCS,SUV,B,5,3038026.53
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,7300975.77
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,2194075.62
+SEAT ,Mii Electric ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,1800136.47
+Kia ,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,B,5,3294332.91
+Opel ,Ampera-e ,7.3,150,335,173,210,Yes,FWD,Type 2 CCS,MPV,B,5,3747653.58
+Porsche ,Taycan 4S,4,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,F,4,9206371.35
+Lightyear ,One ,10,150,575,104,540,Yes,AWD,Type 2 CCS,Liftback,F,5,13325070.00
+Aiways ,U5 ,9,150,335,188,350,No,FWD,Type 2 CCS,SUV,C,5,3224577.51
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,7104766.35
+Opel ,Mokka-e ,8.5,150,255,176,390,Yes,FWD,Type 2 CCS,SUV,B,5,3130050.00
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,3577200.00
+Honda ,e Advance,8.3,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,B,4,3212415.03
+DS ,3 Crossback E-Tense,8.7,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,B,5,3346649.46
+Renault ,Twingo ZE,12.6,135,130,164,200,No,RWD,Type 2,Hatchback,A,4,2216969.70
+Citroen ,e-C4 ,9.7,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,C,5,3577200.00
+Renault ,Zoe ZE40 R110,11.4,135,255,161,230,No,FWD,Type 2 CCS,Hatchback,B,5,2614396.62
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,4471500.00
+Jaguar ,I-Pace ,4.8,200,365,232,340,No,AWD,Type 2 CCS,SUV,E,5,6738639.93
+Ford ,Mustang Mach-E ER RWD,7,180,450,200,430,No,RWD,Type 2 CCS,SUV,D,5,4871699.25
+Porsche ,Taycan 4S Plus,4,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,F,4,9774877.86
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,2973189.78
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,194,200,No,FWD,Type 2,SPV,N,5,3398340.00
+Ford ,Mustang Mach-E ER AWD,6,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,D,5,5625147.00
+BMW ,i3s 120 Ah,6.9,160,230,165,260,Yes,RWD,Type 2 CCS,Hatchback,B,4,3713670.18
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,4024350.00
+Porsche ,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,F,4,13414500.00
+Byton ,M-Byte 95 kWh 4WD,5.5,190,390,244,460,Yes,AWD,Type 2 CCS,SUV,E,5,5723520.00
+Sono ,Sion ,9,140,225,156,270,Yes,FWD,Type 2 CCS,Hatchback,C,5,2280465.00
+Kia ,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,C,5,3076392.00
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,5142225.00
+Smart ,EQ forfour ,12.7,130,95,176,200,No,RWD,Type 2,Hatchback,A,4,1970142.90
+Ford ,Mustang Mach-E SR AWD,6,180,340,206,360,Yes,AWD,Type 2 CCS,SUV,D,5,4829220.00
+Porsche ,Taycan Turbo,3.2,260,390,215,810,No,AWD,Type 2 CCS,Sedan,F,4,13262558.43
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,3486607.41
+Smart ,EQ fortwo coupe,11.6,130,100,167,200,No,RWD,Type 2,Hatchback,A,2,1912639.41
+Ford ,Mustang Mach-E SR RWD,6.6,180,360,194,380,Yes,RWD,Type 2 CCS,SUV,D,5,4194267.00
+Mercedes ,EQV 300 Long,10,140,330,273,290,Yes,FWD,Type 2 CCS,SPV,N,7,6316530.33
+Fiat ,500e Hatchback,9,150,250,168,330,Yes,FWD,Type 2 CCS,Hatchback,B,4,3121107.00
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,6219945.93
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,4247925.00
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,3353625.00
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,8388534.00
+Smart ,EQ fortwo cabrio,11.9,130,95,176,200,No,RWD,Type 2,Cabrio,A,2,2196847.95
+Kia ,e-Soul 64 kWh,7.9,167,365,175,320,No,FWD,Type 2 CCS,SUV,B,5,3294332.91
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,5142225.00
+Fiat ,500e Convertible,9,150,250,168,330,Yes,FWD,Type 2 CCS,Cabrio,B,4,3389397.00
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,3181472.25
+Kia ,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,B,5,2963084.19
+Byton ,M-Byte 72 kWh 2WD,7.5,190,325,222,420,No,RWD,Type 2 CCS,SUV,E,5,4784505.00
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,4024350.00
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,8589751.50
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,4471500.00
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,5812950.00
+Byton ,M-Byte 95 kWh 2WD,7.5,190,400,238,480,No,AWD,Type 2 CCS,SUV,E,5,5544660.00
